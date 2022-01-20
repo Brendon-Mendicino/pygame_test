@@ -1,0 +1,5 @@
+# Initial position (x, y)
+1 1
+# Events
+# Map enter
+14 7 map/map01

@@ -1,0 +1,4 @@
+# Staring pos (x, y)
+8 6
+# New map opening
+8 5 map/map02
